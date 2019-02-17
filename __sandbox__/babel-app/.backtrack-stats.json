@@ -1,0 +1,51 @@
+{
+    "fileManager": {
+        "directories": [
+            ".circleci",
+            "dist",
+            "src"
+        ],
+        "files": {
+            ".babelrc.js": "43681eabb2b71ac03d08330460a4fdc6c1442728690acbb58f2aa373335214f5",
+            ".circleci/config.yml": "0845f9fe3b3f3b12db57e4dbe68ca66fa0c7464cfe717112682a30a099096285",
+            ".editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
+            ".eslintignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
+            ".eslintrc.js": "0de8c62f28870b2afeb3eb58a5a9a106a96c9181aa9478f71760bb155bb4a205",
+            ".gitignore": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
+            ".huskyrc.js": "f7b6f2abb505e7b45fb028edb1a032b9fb7c997e4d563fdd0567beb582f8da76",
+            ".lintstagedrc.js": "c8dd8df94d9c8de4503bc1ab4b4ea12c7450d76ebbd50c9b4c3c7975609e28da",
+            ".prettierignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
+            ".prettierrc.js": "37f4f9d099f0dc6e9d2018d8a0c98cc8fc21245232506d0cd57135f84858a737",
+            "CHANGELOG.md": "ignoreUpdates",
+            "README.md": "ignoreUpdates",
+            "jest.config.js": "e12a7bf22599c80204f73e366b427a8296f16e8fdd1fda0f09a508935258f870",
+            "src/babel-app.js": "ignoreUpdates",
+            "wallaby.config.js": "2656c547b42344e044e4a04d211059882aa4ab616f46051bbf994a018be2b9ec"
+        }
+    },
+    "packageJson": {
+        "engines": {
+            "node": "^10.13.0"
+        },
+        "files": [
+            "dist/"
+        ],
+        "main": "dist/babel-app.js",
+        "scripts": {
+            "build": "backtrack build --production",
+            "clean": "backtrack clean",
+            "dev": "backtrack dev --development",
+            "dev.watch-only": "backtrack dev.watch-only",
+            "format": "backtrack format",
+            "git-pre-commit": "backtrack git-pre-commit",
+            "git-pre-push": "backtrack git-pre-push",
+            "lint": "backtrack lint",
+            "lint.fix": "backtrack lint.fix",
+            "test": "backtrack test",
+            "test.ci": "backtrack test.ci",
+            "test.ci-pretest": "backtrack test.ci-pretest",
+            "test.update": "jest --update-snapshot",
+            "test.watch": "jest --watch"
+        }
+    }
+}

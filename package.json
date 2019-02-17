@@ -1,0 +1,73 @@
+{
+  "name": "@backtrack/preset-node",
+  "version": "0.1.0",
+  "description": "backtrack preset to bootstrap a node project",
+  "keywords": [
+    "backtrack",
+    "preset",
+    "module",
+    "app",
+    "application",
+    "node",
+    "babel",
+    "typescript",
+    "flow",
+    "project"
+  ],
+  "license": "MIT",
+  "repository": "chrisblossom/backtrack-preset-node",
+  "homepage": "https://github.com/chrisblossom/backtrack-preset-node",
+  "author": "Chris Blossom",
+  "engines": {
+    "node": ">=6.9.0",
+    "npm": ">=3.10.10"
+  },
+  "files": [
+    "lib/"
+  ],
+  "main": "lib/preset-node.js",
+  "scripts": {
+    "format": "backtrack format",
+    "git-pre-commit": "backtrack git-pre-commit",
+    "git-pre-push": "backtrack git-pre-push",
+    "lint": "backtrack lint",
+    "lint.fix": "backtrack lint.fix",
+    "prepublishOnly": "backtrack prepublishOnly",
+    "test": "backtrack test",
+    "test.ci": "backtrack test.ci",
+    "test.ci-pretest": "backtrack test.ci-pretest",
+    "test.update": "jest --update-snapshot",
+    "test.watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@backtrack/core": "^0.1.25",
+    "@backtrack/preset-preset": "^0.3.16",
+    "execa": "^1.0.0",
+    "read-dir-deep": "^4.0.2",
+    "strip-ansi": "^5.0.0",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.3",
+    "@babel/plugin-proposal-class-properties": "^7.3.3",
+    "@babel/plugin-transform-strict-mode": "^7.2.0",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "@backtrack/preset-jest": "^0.6.2",
+    "@backtrack/preset-style": "^0.1.25",
+    "babel-jest": "^24.1.0",
+    "babel-plugin-add-module-exports": "^1.0.0",
+    "babel-plugin-dynamic-import-node": "^2.2.0",
+    "chokidar": "^2.1.1",
+    "cross-spawn": "^6.0.5",
+    "del": "^3.0.0",
+    "flow-copy-source": "^2.0.3",
+    "nodemon": "^1.18.10",
+    "read-pkg": "^4.0.1",
+    "recursive-copy": "^2.0.10",
+    "semver": "^5.6.0",
+    "slash": "^2.0.0"
+  }
+}

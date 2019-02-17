@@ -1,0 +1,34 @@
+{
+  "name": "node-module",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "files": [
+    "lib/"
+  ],
+  "main": "lib/node-module.js",
+  "scripts": {
+    "format": "backtrack format",
+    "git-pre-commit": "backtrack git-pre-commit",
+    "git-pre-push": "backtrack git-pre-push",
+    "lint": "backtrack lint",
+    "lint.fix": "backtrack lint.fix",
+    "prepublishOnly": "backtrack prepublishOnly",
+    "test": "backtrack test",
+    "test.ci": "backtrack test.ci",
+    "test.ci-pretest": "backtrack test.ci-pretest",
+    "test.update": "jest --update-snapshot",
+    "test.watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@backtrack/core": "^0.1.20"
+  },
+  "dependencies": {
+    "@backtrack/preset-node-module": "file:../.."
+  }
+}

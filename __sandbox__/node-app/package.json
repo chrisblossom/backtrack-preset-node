@@ -1,0 +1,34 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "engines": {
+    "node": "^10.13.0"
+  },
+  "files": [
+    "app/"
+  ],
+  "main": "app/node-app.js",
+  "scripts": {
+    "dev": "backtrack dev --development",
+    "format": "backtrack format",
+    "git-pre-commit": "backtrack git-pre-commit",
+    "git-pre-push": "backtrack git-pre-push",
+    "lint": "backtrack lint",
+    "lint.fix": "backtrack lint.fix",
+    "test": "backtrack test",
+    "test.ci": "backtrack test.ci",
+    "test.ci-pretest": "backtrack test.ci-pretest",
+    "test.update": "jest --update-snapshot",
+    "test.watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@backtrack/core": "^0.1.20"
+  },
+  "dependencies": {
+    "@backtrack/preset-node-module": "file:../.."
+  }
+}

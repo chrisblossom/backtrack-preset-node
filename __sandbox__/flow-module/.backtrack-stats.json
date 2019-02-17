@@ -1,0 +1,59 @@
+{
+    "fileManager": {
+        "directories": [
+            ".circleci",
+            "dist",
+            "flow-typed",
+            "src"
+        ],
+        "files": {
+            ".babelrc.js": "cfbdbe56c75e6414ebe29840e9b02c552eb15eb076828effcada7c7421380c75",
+            ".circleci/config.yml": "f8afa0de22d1ce5ee659b86993cf898e85b383599dab0f06ef052d1f4510ef37",
+            ".editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
+            ".eslintignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
+            ".eslintrc.js": "0de8c62f28870b2afeb3eb58a5a9a106a96c9181aa9478f71760bb155bb4a205",
+            ".flowconfig": "1b95d32c6dc72c05477c2c4d85a6a4c80aec47ace938dd91c335d2a432dfd754",
+            ".gitignore": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
+            ".huskyrc.js": "f7b6f2abb505e7b45fb028edb1a032b9fb7c997e4d563fdd0567beb582f8da76",
+            ".lintstagedrc.js": "c8dd8df94d9c8de4503bc1ab4b4ea12c7450d76ebbd50c9b4c3c7975609e28da",
+            ".npmrc": "f535d8452d57a9d969bc54c2eaa831f3e20ccb5c3dbeeabc6f613d27a4b5a28a",
+            ".prettierignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
+            ".prettierrc.js": "37f4f9d099f0dc6e9d2018d8a0c98cc8fc21245232506d0cd57135f84858a737",
+            ".yarnrc": "feed5a1b1413c2d27507ed09e7d1c21fb40e0f8aca947c0620793b7e187e8ba4",
+            "CHANGELOG.md": "ignoreUpdates",
+            "README.md": "ignoreUpdates",
+            "appveyor.yml": "251406424b8cb49b1a8858ef7eb521ae57856964625daed85b591692e8f98e15",
+            "flow-typed/jest.js": "dfb57c1db3a0b01a101ca14855be030bcc566be90bf00110f2fa16b42e92158d",
+            "jest.config.js": "e12a7bf22599c80204f73e366b427a8296f16e8fdd1fda0f09a508935258f870",
+            "src/flow-module.js": "ignoreUpdates",
+            "wallaby.config.js": "2656c547b42344e044e4a04d211059882aa4ab616f46051bbf994a018be2b9ec"
+        }
+    },
+    "packageJson": {
+        "engines": {
+            "node": ">=6.9.0"
+        },
+        "files": [
+            "dist/",
+            "flow-typed/"
+        ],
+        "main": "dist/flow-module.js",
+        "scripts": {
+            "build": "backtrack build --production",
+            "clean": "backtrack clean",
+            "dev": "backtrack dev --development",
+            "flow": "backtrack flow",
+            "format": "backtrack format",
+            "git-pre-commit": "backtrack git-pre-commit",
+            "git-pre-push": "backtrack git-pre-push",
+            "lint": "backtrack lint",
+            "lint.fix": "backtrack lint.fix",
+            "prepublishOnly": "backtrack prepublishOnly",
+            "test": "backtrack test",
+            "test.ci": "backtrack test.ci",
+            "test.ci-pretest": "backtrack test.ci-pretest",
+            "test.update": "jest --update-snapshot",
+            "test.watch": "jest --watch"
+        }
+    }
+}

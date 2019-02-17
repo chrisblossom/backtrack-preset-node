@@ -1,0 +1,38 @@
+{
+  "name": "babel-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "engines": {
+    "node": "^10.13.0"
+  },
+  "files": [
+    "dist/"
+  ],
+  "main": "dist/babel-app.js",
+  "scripts": {
+    "build": "backtrack build --production",
+    "clean": "backtrack clean",
+    "dev": "backtrack dev --development",
+    "dev.watch-only": "backtrack dev.watch-only",
+    "format": "backtrack format",
+    "git-pre-commit": "backtrack git-pre-commit",
+    "git-pre-push": "backtrack git-pre-push",
+    "lint": "backtrack lint",
+    "lint.fix": "backtrack lint.fix",
+    "test": "backtrack test",
+    "test.ci": "backtrack test.ci",
+    "test.ci-pretest": "backtrack test.ci-pretest",
+    "test.update": "jest --update-snapshot",
+    "test.watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@backtrack/core": "^0.1.20"
+  },
+  "dependencies": {
+    "@backtrack/preset-node-module": "file:../..",
+    "source-map-support": "^0.5.10"
+  }
+}
