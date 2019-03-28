@@ -64,16 +64,18 @@ module.exports = {
                  * Available syntax:
                  *     node: Target package.json's engines.node (no compilation)
                  *     babel: Use babel to provide latest javascript features
-                 *         - requirements:
-                 *             - npm install --save source-map-support @babel/polyfill
+                 *         - app requirements:
+                 *             - npm install --save source-map-support @babel/polyfill core-js@2
                  *     typescript: Use Typescript
-                 *         - requirements:
-                 *             - npm install --save source-map-support @babel/polyfill
+                 *         - requirements
                  *             - npm install --save-dev typescript
+                 *         - app requirements:
+                 *             - npm install --save source-map-support @babel/polyfill core-js@2
                  *     flow: Use flow-type
-                 *         - requirements:
-                 *             - npm install --save source-map-support @babel/polyfill
+                 *         - requirements
                  *             - npm install --save-dev flow-bin
+                 *         - app requirements:
+                 *             - npm install --save source-map-support @babel/polyfill
                  *
                  * default: 'node'
                  */
