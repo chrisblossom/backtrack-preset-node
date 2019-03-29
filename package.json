@@ -39,7 +39,7 @@
     "test.watch": "jest --watch"
   },
   "devDependencies": {
-    "@backtrack/core": "^0.1.26",
+    "@backtrack/core": "^0.1.27",
     "@backtrack/preset-preset": "^0.3.17",
     "execa": "^1.0.0",
     "read-dir-deep": "^4.0.3",
