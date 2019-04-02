@@ -44,7 +44,7 @@
     "execa": "^1.0.0",
     "read-dir-deep": "^4.0.3",
     "strip-ansi": "^5.2.0",
-    "typescript": "^3.3.3"
+    "typescript": "^3.4.1"
   },
   "dependencies": {
     "@babel/cli": "^7.2.3",
@@ -56,12 +56,12 @@
     "@babel/preset-typescript": "^7.3.3",
     "@backtrack/preset-jest": "^0.6.2",
     "@backtrack/preset-style": "^0.1.27",
-    "babel-jest": "^24.5.0",
+    "babel-jest": "^24.6.0",
     "babel-plugin-add-module-exports": "^1.0.0",
     "babel-plugin-dynamic-import-node": "^2.2.0",
     "chokidar": "^2.1.5",
     "cross-spawn": "^6.0.5",
-    "del": "^4.0.0",
+    "del": "^4.1.0",
     "flow-copy-source": "^2.0.3",
     "nodemon": "^1.18.10",
     "read-pkg": "^4.0.1",
