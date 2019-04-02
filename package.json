@@ -57,7 +57,6 @@
     "@backtrack/preset-jest": "^0.6.2",
     "@backtrack/preset-style": "^0.1.27",
     "babel-jest": "^24.6.0",
-    "babel-plugin-add-module-exports": "^1.0.0",
     "babel-plugin-dynamic-import-node": "^2.2.0",
     "chokidar": "^2.1.5",
     "cross-spawn": "^6.0.5",
