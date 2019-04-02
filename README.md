@@ -32,12 +32,20 @@
 'use strict';
 
 module.exports = {
-    // see defaults below
-    presets: ['@backtrack/node'],
+    // see settings below
+    presets: [
+        [
+            '@backtrack/node',
+            {
+                mode: 'module',
+                syntax: 'node',
+            },
+        ],
+    ],
 };
 ```
 
-## Options
+## Settings
 
 ```js
 'use strict';
@@ -50,34 +58,38 @@ module.exports = {
                 /**
                  * Project mode type
                  *
+                 * Required
+                 *
                  * Available modes:
                  *     module - npm module
                  *     app - node application
                  *
-                 * default: 'module'
                  */
                 mode: 'app',
 
                 /**
                  * Javascript syntax
                  *
+                 * Required
+                 *
                  * Available syntax:
                  *     node: Target package.json's engines.node (no compilation)
+                 *
                  *     babel: Use babel to provide latest javascript features
                  *         - app requirements:
                  *             - npm install --save source-map-support @babel/polyfill core-js@2
+                 *
                  *     typescript: Use Typescript
                  *         - requirements
                  *             - npm install --save-dev typescript
                  *         - app requirements:
                  *             - npm install --save source-map-support @babel/polyfill core-js@2
+                 *
                  *     flow: Use flow-type
                  *         - requirements
                  *             - npm install --save-dev flow-bin
                  *         - app requirements:
                  *             - npm install --save source-map-support @babel/polyfill
-                 *
-                 * default: 'node'
                  */
                 syntax: 'typescript',
 
