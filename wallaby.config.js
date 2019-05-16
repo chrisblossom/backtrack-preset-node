@@ -9,7 +9,7 @@
 
 'use strict';
 
-const Backtrack = require('@backtrack/core');
+const { Backtrack } = require('@backtrack/core');
 
 const { configManager } = new Backtrack();
 
@@ -32,7 +32,7 @@ module.exports = (wallabyInitial) => {
      */
     process.env.NODE_PATH = require('path').join(
         wallabyInitial.localProjectDir,
-        '../../node_modules'
+        '../../node_modules',
     );
 
     const wallabyConfig = configManager({
@@ -81,11 +81,11 @@ module.exports = (wallabyInitial) => {
                 const path = require('path');
                 const realModules = path.join(
                     wallabySetup.localProjectDir,
-                    'node_modules'
+                    'node_modules',
                 );
                 const linkedModules = path.join(
                     wallabySetup.projectCacheDir,
-                    'node_modules'
+                    'node_modules',
                 );
 
                 try {

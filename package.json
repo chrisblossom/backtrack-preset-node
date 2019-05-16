@@ -42,8 +42,8 @@
     "@backtrack/core": ">=0.2.0"
   },
   "devDependencies": {
-    "@backtrack/core": "^0.1.28",
-    "@backtrack/preset-preset": "^0.4.0",
+    "@backtrack/core": "^0.2.0",
+    "@backtrack/preset-preset": "^0.5.0",
     "execa": "^1.0.0",
     "read-dir-deep": "^5.0.0",
     "strip-ansi": "^5.2.0",
