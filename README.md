@@ -77,19 +77,19 @@ module.exports = {
                  *
                  *     babel: Use babel to provide latest javascript features
                  *         - app requirements:
-                 *             - npm install --save source-map-support @babel/polyfill core-js@2
+                 *             - npm install --save source-map-support core-js@3
                  *
                  *     typescript: Use Typescript
                  *         - requirements
                  *             - npm install --save-dev typescript
                  *         - app requirements:
-                 *             - npm install --save source-map-support @babel/polyfill core-js@2
+                 *             - npm install --save source-map-support core-js@3
                  *
                  *     flow: Use flow-type
                  *         - requirements
                  *             - npm install --save-dev flow-bin
                  *         - app requirements:
-                 *             - npm install --save source-map-support @babel/polyfill
+                 *             - npm install --save source-map-support core-js@3
                  */
                 syntax: 'typescript',
 
