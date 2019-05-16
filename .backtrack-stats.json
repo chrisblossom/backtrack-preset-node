@@ -5,7 +5,7 @@
             "lib/files"
         ],
         "files": {
-            ".circleci/config.yml": "f8afa0de22d1ce5ee659b86993cf898e85b383599dab0f06ef052d1f4510ef37",
+            ".circleci/config.yml": "0655967a1db91cb0a3892a0f70594cf2749b9e7906f4619023db4a8227e3cbc6",
             ".editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
             ".eslintignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
             ".eslintrc.js": "577797f39cbdc5d8242dc8da8564a2faca5ed926b1c8f651167240d790034ee8",
@@ -18,11 +18,11 @@
             ".yarnrc": "feed5a1b1413c2d27507ed09e7d1c21fb40e0f8aca947c0620793b7e187e8ba4",
             "CHANGELOG.md": "ignoreUpdates",
             "README.md": "ignoreUpdates",
-            "appveyor.yml": "251406424b8cb49b1a8858ef7eb521ae57856964625daed85b591692e8f98e15",
+            "appveyor.yml": "a3d0eaee7da91d6f2bfdde8fdfa447f1919815fe7377b8963efd6a4da21b6ec2",
             "jest.config.js": "e12a7bf22599c80204f73e366b427a8296f16e8fdd1fda0f09a508935258f870",
             "lib/preset-node.js": "ignoreUpdates",
             "lib/preset-node.test.js": "ignoreUpdates",
-            "wallaby.config.js": "2656c547b42344e044e4a04d211059882aa4ab616f46051bbf994a018be2b9ec"
+            "wallaby.config.js": "f781098485983248df0230057ffa87e1186029650951d8f4cb75d62956d483d7"
         }
     },
     "packageJson": {

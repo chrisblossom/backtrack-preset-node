@@ -1,8 +1,8 @@
 'use strict';
 
-const readDirDeep = require('read-dir-deep');
+const { readDirDeepSync } = require('read-dir-deep');
 
-const directories = readDirDeep.sync('.', {
+const directories = readDirDeepSync('.', {
     deep: false,
     onlyDirectories: true,
     markDirectories: false,
