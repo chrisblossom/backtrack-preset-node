@@ -6,7 +6,7 @@
   "license": "ISC",
   "author": "",
   "engines": {
-    "node": ">=6.9.0"
+    "node": ">=8.9.0"
   },
   "files": [
     "lib/"
@@ -26,7 +26,7 @@
     "test.watch": "jest --watch"
   },
   "devDependencies": {
-    "@backtrack/core": "^0.1.20"
+    "@backtrack/core": "*"
   },
   "dependencies": {
     "@backtrack/preset-node-module": "file:../.."

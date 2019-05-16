@@ -31,8 +31,8 @@
     "test.watch": "jest --watch"
   },
   "devDependencies": {
-    "@backtrack/core": "^0.1.20",
-    "flow-bin": "^0.80.0"
+    "@backtrack/core": "*",
+    "flow-bin": "*"
   },
   "dependencies": {
     "@backtrack/preset-node-module": "file:../..",

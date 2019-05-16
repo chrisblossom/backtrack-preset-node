@@ -26,7 +26,7 @@
     "test.watch": "jest --watch"
   },
   "devDependencies": {
-    "@backtrack/core": "^0.1.20"
+    "@backtrack/core": "*"
   },
   "dependencies": {
     "@backtrack/preset-node-module": "file:../.."

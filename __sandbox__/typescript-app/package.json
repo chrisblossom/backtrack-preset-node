@@ -31,10 +31,10 @@
     "typescript": "backtrack typescript"
   },
   "devDependencies": {
-    "@backtrack/core": "^0.1.20",
-    "@types/jest": "^23.3.12",
-    "@types/node": "^10.12.18",
-    "typescript": "^3.2.2"
+    "@backtrack/core": "*",
+    "@types/jest": "*",
+    "@types/node": "*",
+    "typescript": "*"
   },
   "dependencies": {
     "@backtrack/preset-node-module": "file:../..",

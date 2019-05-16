@@ -3,7 +3,6 @@
 ; source: @backtrack/preset-node
 ;
 ; DO NOT MODIFY
-
 [ignore]
 <PROJECT_ROOT>/dist/.*
 

@@ -8,17 +8,17 @@
             ".circleci/config.yml": "0845f9fe3b3f3b12db57e4dbe68ca66fa0c7464cfe717112682a30a099096285",
             ".editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
             ".eslintignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
-            ".eslintrc.js": "577797f39cbdc5d8242dc8da8564a2faca5ed926b1c8f651167240d790034ee8",
+            ".eslintrc.js": "d29084d1d0cbcc3982525eae881e6e797d1c64be4c6937ab43fb134750c6207d",
             ".gitignore": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
-            ".huskyrc.js": "f7b6f2abb505e7b45fb028edb1a032b9fb7c997e4d563fdd0567beb582f8da76",
-            ".lintstagedrc.js": "c8dd8df94d9c8de4503bc1ab4b4ea12c7450d76ebbd50c9b4c3c7975609e28da",
+            ".huskyrc.js": "d41c387b0d3f16730829f444ef7bc0665cc52e92847c548c5166ebb7597bc69a",
+            ".lintstagedrc.js": "5398a6883c9332018fa32fdac8989989eef1eca27c0e2d92ccf35bb13381e7e7",
             ".prettierignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
-            ".prettierrc.js": "37f4f9d099f0dc6e9d2018d8a0c98cc8fc21245232506d0cd57135f84858a737",
+            ".prettierrc.js": "f76ed92bea30dd6cb22675cedc0044614a9220be9b74859b5750a54ef4745a99",
             "CHANGELOG.md": "ignoreUpdates",
             "README.md": "ignoreUpdates",
             "app/node-app.js": "ignoreUpdates",
-            "jest.config.js": "e12a7bf22599c80204f73e366b427a8296f16e8fdd1fda0f09a508935258f870",
-            "wallaby.config.js": "2656c547b42344e044e4a04d211059882aa4ab616f46051bbf994a018be2b9ec"
+            "jest.config.js": "996d179962a5518ff433880e9d7586c4d960c66112aa28698801d73347af4d00",
+            "wallaby.config.js": "3968a28638500fa170681791a468b61a051969f7c202fe8f30823a22779a55ac"
         }
     },
     "packageJson": {
