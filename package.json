@@ -19,7 +19,7 @@
   "homepage": "https://github.com/chrisblossom/backtrack-preset-node",
   "author": "Chris Blossom",
   "engines": {
-    "node": ">=6.9.0"
+    "node": ">=8.9.0"
   },
   "files": [
     "lib/"
@@ -38,9 +38,12 @@
     "test.update": "jest --update-snapshot",
     "test.watch": "jest --watch"
   },
+  "peerDependencies": {
+    "@backtrack/core": ">=0.2.0"
+  },
   "devDependencies": {
     "@backtrack/core": "^0.1.28",
-    "@backtrack/preset-preset": "^0.3.17",
+    "@backtrack/preset-preset": "^0.4.0",
     "execa": "^1.0.0",
     "read-dir-deep": "^5.0.0",
     "strip-ansi": "^5.2.0",
@@ -54,8 +57,8 @@
     "@babel/preset-env": "^7.4.4",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-typescript": "^7.3.3",
-    "@backtrack/preset-jest": "^0.6.5",
-    "@backtrack/preset-style": "^0.1.27",
+    "@backtrack/preset-jest": "^0.7.0",
+    "@backtrack/preset-style": "^0.2.0",
     "babel-jest": "^24.8.0",
     "babel-plugin-dynamic-import-node": "^2.2.0",
     "chokidar": "^2.1.6",
@@ -63,9 +66,9 @@
     "del": "^4.1.1",
     "flow-copy-source": "^2.0.6",
     "nodemon": "^1.19.0",
-    "read-pkg": "^4.0.1",
+    "read-pkg": "^5.1.1",
     "recursive-copy": "^2.0.10",
     "semver": "^6.0.0",
-    "slash": "^2.0.0"
+    "slash": "^3.0.0"
   }
 }

@@ -17,7 +17,7 @@ const prettier = {
     semi: true,
     tabWidth: 4,
     singleQuote: true,
-    trailingComma: 'es5',
+    trailingComma: 'all',
     arrowParens: 'always',
 };
 

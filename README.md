@@ -96,7 +96,7 @@ module.exports = {
                 /**
                  * Specify node version
                  *
-                 * module default: '>=6.9.0'
+                 * module default: '>=8.9.0'
                  * app default: '^10.13.0'
                  */
                 nodeVersion: '^12.0.0',

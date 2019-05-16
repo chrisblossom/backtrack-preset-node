@@ -5,7 +5,7 @@
             "lib/files"
         ],
         "files": {
-            ".circleci/config.yml": "0655967a1db91cb0a3892a0f70594cf2749b9e7906f4619023db4a8227e3cbc6",
+            ".circleci/config.yml": "ed700b1e1ed715aaa370a41a40f8236df1886fa35913c644e8cc82580997e327",
             ".editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
             ".eslintignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
             ".eslintrc.js": "577797f39cbdc5d8242dc8da8564a2faca5ed926b1c8f651167240d790034ee8",
@@ -14,11 +14,11 @@
             ".lintstagedrc.js": "a1d49f8d7d4c67c356cc9fbb939df7484016908ed4777300c3fbf355b47921d9",
             ".npmrc": "f535d8452d57a9d969bc54c2eaa831f3e20ccb5c3dbeeabc6f613d27a4b5a28a",
             ".prettierignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
-            ".prettierrc.js": "c179f1962a1c7f0500cba01f9a68a3234882096fb7b3c2385b9d4779e4aebb83",
+            ".prettierrc.js": "37f4f9d099f0dc6e9d2018d8a0c98cc8fc21245232506d0cd57135f84858a737",
             ".yarnrc": "feed5a1b1413c2d27507ed09e7d1c21fb40e0f8aca947c0620793b7e187e8ba4",
             "CHANGELOG.md": "ignoreUpdates",
             "README.md": "ignoreUpdates",
-            "appveyor.yml": "a3d0eaee7da91d6f2bfdde8fdfa447f1919815fe7377b8963efd6a4da21b6ec2",
+            "appveyor.yml": "5dcc891d04c8131f9a5782771c5fecd04af5a6cc6c22f4090a63b3b4583bafaa",
             "jest.config.js": "e12a7bf22599c80204f73e366b427a8296f16e8fdd1fda0f09a508935258f870",
             "lib/preset-node.js": "ignoreUpdates",
             "lib/preset-node.test.js": "ignoreUpdates",
@@ -27,7 +27,7 @@
     },
     "packageJson": {
         "engines": {
-            "node": ">=6.9.0"
+            "node": ">=8.9.0"
         },
         "files": [
             "lib/"
