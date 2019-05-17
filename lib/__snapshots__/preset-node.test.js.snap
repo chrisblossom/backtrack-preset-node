@@ -168,7 +168,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/package-entry-app.js": "ignoreUpdates",
@@ -419,7 +419,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/package-entry-app.js": "ignoreUpdates",
@@ -665,7 +665,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/package-entry-app.js": "ignoreUpdates",
@@ -942,7 +942,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/flowconfig": "45cde9c64ee231ad984aa284beeddf56cd695e295aedcd3c73f904b0daf51713",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
@@ -1237,7 +1237,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/flowconfig": "45cde9c64ee231ad984aa284beeddf56cd695e295aedcd3c73f904b0daf51713",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
@@ -1527,7 +1527,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/flowconfig": "45cde9c64ee231ad984aa284beeddf56cd695e295aedcd3c73f904b0daf51713",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
@@ -2384,7 +2384,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -2674,7 +2674,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -2959,7 +2959,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.js": "13ae8475cdff26d8016e18e16e5c3f5be3ba1646633b439e8208f9435d101a9f",
+        "lib/files/babel-app.js": "437ea56954d308bea633a620478a973d16146752c4e860bce03424bff19f9a47",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -3211,7 +3211,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/npmrc-module": "f535d8452d57a9d969bc54c2eaa831f3e20ccb5c3dbeeabc6f613d27a4b5a28a",
@@ -3465,7 +3465,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/npmrc-module": "f535d8452d57a9d969bc54c2eaa831f3e20ccb5c3dbeeabc6f613d27a4b5a28a",
@@ -3720,7 +3720,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/npmrc-module": "f535d8452d57a9d969bc54c2eaa831f3e20ccb5c3dbeeabc6f613d27a4b5a28a",
@@ -3997,7 +3997,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/flowconfig": "45cde9c64ee231ad984aa284beeddf56cd695e295aedcd3c73f904b0daf51713",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
@@ -4292,7 +4292,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/flowconfig": "45cde9c64ee231ad984aa284beeddf56cd695e295aedcd3c73f904b0daf51713",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
@@ -4588,7 +4588,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/flowconfig": "45cde9c64ee231ad984aa284beeddf56cd695e295aedcd3c73f904b0daf51713",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
@@ -5502,7 +5502,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -5796,7 +5796,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -6091,7 +6091,7 @@ Object {
       "hash": Object {
         "lib/files/CHANGELOG.md": "ignoreUpdates",
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.js": "5bbb6724d7116ee2892e3ed5ea965e497c7ff9c148b3f19d5fd0aabb4a3aac76",
+        "lib/files/babel-module.js": "46ec57ee7ace7a0f86672ab17e78a9b89b288971d0200abd50cfa78d229d9749",
         "lib/files/editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/global.d.ts": "ignoreUpdates",
