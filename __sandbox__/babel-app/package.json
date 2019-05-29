@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "license": "ISC",
+  "private": true,
   "author": "",
   "engines": {
     "node": "^10.13.0"
@@ -22,6 +23,7 @@
     "git-pre-push": "backtrack git-pre-push",
     "lint": "backtrack lint",
     "lint.fix": "backtrack lint.fix",
+    "release": "backtrack release",
     "test": "backtrack test",
     "test.ci": "backtrack test.ci",
     "test.ci-pretest": "backtrack test.ci-pretest",

@@ -39,22 +39,22 @@
     "test.watch": "jest --watch"
   },
   "peerDependencies": {
-    "@backtrack/core": ">=0.2.0"
+    "@backtrack/core": ">=0.2.1"
   },
   "devDependencies": {
-    "@backtrack/core": "^0.2.0",
+    "@backtrack/core": "^0.2.1",
     "@backtrack/preset-preset": "^0.5.0",
     "execa": "^1.0.0",
     "read-dir-deep": "^6.0.0",
     "strip-ansi": "^5.2.0",
-    "typescript": "^3.4.5"
+    "typescript": "^3.5.1"
   },
   "dependencies": {
     "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.4.4",
+    "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
     "@babel/plugin-transform-strict-mode": "^7.2.0",
-    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-typescript": "^7.3.3",
     "@backtrack/preset-jest": "^0.7.0",
@@ -65,10 +65,11 @@
     "cross-spawn": "^6.0.5",
     "del": "^4.1.1",
     "flow-copy-source": "^2.0.6",
-    "nodemon": "^1.19.0",
+    "nodemon": "^1.19.1",
+    "np": "^5.0.2",
     "read-pkg": "^5.1.1",
     "recursive-copy": "^2.0.10",
-    "semver": "^6.0.0",
+    "semver": "^6.1.1",
     "slash": "^3.0.0"
   }
 }

@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "license": "ISC",
+  "private": false,
   "author": "",
   "engines": {
     "node": ">=8.9.0"
@@ -24,6 +25,7 @@
     "lint": "backtrack lint",
     "lint.fix": "backtrack lint.fix",
     "prepublishOnly": "backtrack prepublishOnly",
+    "release": "backtrack release",
     "test": "backtrack test",
     "test.ci": "backtrack test.ci",
     "test.ci-pretest": "backtrack test.ci-pretest",
