@@ -9,6 +9,7 @@
             ".editorconfig": "ec4ed6b0bd85bf29162eccef4420c8b03bd330e8abd84d7a14b2cae3079f1fd9",
             ".eslintignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
             ".eslintrc.js": "d29084d1d0cbcc3982525eae881e6e797d1c64be4c6937ab43fb134750c6207d",
+            ".gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
             ".gitignore": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
             ".huskyrc.js": "d41c387b0d3f16730829f444ef7bc0665cc52e92847c548c5166ebb7597bc69a",
             ".lintstagedrc.js": "5398a6883c9332018fa32fdac8989989eef1eca27c0e2d92ccf35bb13381e7e7",
