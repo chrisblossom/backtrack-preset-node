@@ -15,6 +15,7 @@
     "project"
   ],
   "license": "MIT",
+  "private": false,
   "repository": "chrisblossom/backtrack-preset-node",
   "homepage": "https://github.com/chrisblossom/backtrack-preset-node",
   "author": "Chris Blossom",
@@ -32,6 +33,7 @@
     "lint": "backtrack lint",
     "lint.fix": "backtrack lint.fix",
     "prepublishOnly": "backtrack prepublishOnly",
+    "release": "backtrack release",
     "test": "backtrack test",
     "test.ci": "backtrack test.ci",
     "test.ci-pretest": "backtrack test.ci-pretest",
