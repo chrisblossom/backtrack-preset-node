@@ -59,7 +59,7 @@
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-typescript": "^7.3.3",
-    "@backtrack/preset-jest": "^0.7.0",
+    "@backtrack/preset-jest": "^0.7.1",
     "@backtrack/preset-style": "^0.2.3",
     "babel-jest": "^24.8.0",
     "babel-plugin-dynamic-import-node": "^2.2.0",

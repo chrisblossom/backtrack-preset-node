@@ -3407,7 +3407,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
   ],
   "release": Array [
@@ -3673,7 +3672,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
   ],
   "release": Array [
@@ -3939,7 +3937,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
   ],
   "release": Array [
@@ -4234,7 +4231,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
     "backtrack flow",
   ],
@@ -4541,7 +4537,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
     "backtrack flow",
   ],
@@ -4848,7 +4843,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
     "backtrack flow",
   ],
@@ -5069,7 +5063,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
   ],
   "release": Array [
     "np",
@@ -5290,7 +5283,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
   ],
   "release": Array [
     "np",
@@ -5511,7 +5503,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
   ],
   "release": Array [
     "np",
@@ -5803,7 +5794,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
     "backtrack typescript",
   ],
@@ -6109,7 +6099,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
     "backtrack typescript",
   ],
@@ -6415,7 +6404,6 @@ Object {
   ],
   "prepublishOnly": Array [
     "backtrack lint",
-    "backtrack test",
     "backtrack build",
     "backtrack typescript",
   ],
