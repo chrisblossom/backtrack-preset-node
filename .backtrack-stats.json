@@ -18,7 +18,6 @@
             ".prettierignore": "df678e7a458aba93c115564cfd4a701bdf4397e943de8745d37f2798c1dc5c11",
             ".prettierrc.js": "f76ed92bea30dd6cb22675cedc0044614a9220be9b74859b5750a54ef4745a99",
             ".yarnrc": "feed5a1b1413c2d27507ed09e7d1c21fb40e0f8aca947c0620793b7e187e8ba4",
-            "CHANGELOG.md": "ignoreUpdates",
             "README.md": "ignoreUpdates",
             "appveyor.yml": "5dcc891d04c8131f9a5782771c5fecd04af5a6cc6c22f4090a63b3b4583bafaa",
             "jest.config.js": "996d179962a5518ff433880e9d7586c4d960c66112aa28698801d73347af4d00",
