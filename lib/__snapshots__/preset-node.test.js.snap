@@ -209,6 +209,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -472,6 +473,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -728,6 +730,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -1023,6 +1026,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -1330,6 +1334,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -1630,6 +1635,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -1836,6 +1842,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -2042,6 +2049,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -2241,6 +2249,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -2529,6 +2538,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -2831,6 +2841,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -3126,6 +3137,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -3386,6 +3398,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -3651,6 +3664,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -3916,6 +3930,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -4209,6 +4224,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -4515,6 +4531,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -4821,6 +4838,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -5042,6 +5060,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -5262,6 +5281,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -5482,6 +5502,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -5772,6 +5793,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -6077,6 +6099,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
@@ -6382,6 +6405,7 @@ Object {
   ],
   "lint.fix": Array [
     "eslint --ext .js,.jsx,.mjs,.ts,.tsx --fix .",
+    "prettier \\"**/*.{js,mjs,jsx,ts,tsx,json,scss,less,css,md,yml,yaml}\\" --write",
   ],
   "packageJson": Array [
     Object {
