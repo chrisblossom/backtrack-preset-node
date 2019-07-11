@@ -32,16 +32,16 @@
 'use strict';
 
 module.exports = {
-    // see settings below
-    presets: [
-        [
-            '@backtrack/node',
-            {
-                mode: 'module',
-                syntax: 'node',
-            },
-        ],
-    ],
+	// see settings below
+	presets: [
+		[
+			'@backtrack/node',
+			{
+				mode: 'module',
+				syntax: 'node',
+			},
+		],
+	],
 };
 ```
 
@@ -51,65 +51,65 @@ module.exports = {
 'use strict';
 
 module.exports = {
-    presets: [
-        [
-            '@backtrack/node',
-            {
-                /**
-                 * Project mode type
-                 *
-                 * Required
-                 *
-                 * Available modes:
-                 *     module - npm module
-                 *     app - node application
-                 *
-                 */
-                mode: 'app',
+	presets: [
+		[
+			'@backtrack/node',
+			{
+				/**
+				 * Project mode type
+				 *
+				 * Required
+				 *
+				 * Available modes:
+				 *     module - npm module
+				 *     app - node application
+				 *
+				 */
+				mode: 'app',
 
-                /**
-                 * Javascript syntax
-                 *
-                 * Required
-                 *
-                 * Available syntax:
-                 *     node: Target package.json's engines.node (no compilation)
-                 *
-                 *     babel: Use babel to provide latest javascript features
-                 *         - app requirements:
-                 *             - npm install --save source-map-support core-js@3
-                 *
-                 *     typescript: Use Typescript
-                 *         - requirements
-                 *             - npm install --save-dev typescript
-                 *         - app requirements:
-                 *             - npm install --save source-map-support core-js@3
-                 *
-                 *     flow: Use flow-type
-                 *         - requirements
-                 *             - npm install --save-dev flow-bin
-                 *         - app requirements:
-                 *             - npm install --save source-map-support core-js@3
-                 */
-                syntax: 'typescript',
+				/**
+				 * Javascript syntax
+				 *
+				 * Required
+				 *
+				 * Available syntax:
+				 *     node: Target package.json's engines.node (no compilation)
+				 *
+				 *     babel: Use babel to provide latest javascript features
+				 *         - app requirements:
+				 *             - npm install --save source-map-support core-js@3
+				 *
+				 *     typescript: Use Typescript
+				 *         - requirements
+				 *             - npm install --save-dev typescript
+				 *         - app requirements:
+				 *             - npm install --save source-map-support core-js@3
+				 *
+				 *     flow: Use flow-type
+				 *         - requirements
+				 *             - npm install --save-dev flow-bin
+				 *         - app requirements:
+				 *             - npm install --save source-map-support core-js@3
+				 */
+				syntax: 'typescript',
 
-                /**
-                 * Specify node version
-                 *
-                 * module default: '>=8.9.0'
-                 * app default: '^10.13.0'
-                 */
-                nodeVersion: '^12.0.0',
+				/**
+				 * Specify node version
+				 *
+				 * module default: '>=8.9.0'
+				 * app default: '^10.13.0'
+				 */
+				nodeVersion: '^12.0.0',
 
-                /**
-                 * Enable/disable Windows-only features
-                 *
-                 * module default: true
-                 * app default: false
-                 */
-                windows: false,
-            },
-        ],
-    ],
+				/**
+				 * Enable/disable Windows-only features
+				 *
+				 * module default: true
+				 * app default: false
+				 */
+				windows: false,
+			},
+		],
+	],
 };
 ```
