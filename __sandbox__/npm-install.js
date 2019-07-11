@@ -11,12 +11,12 @@ const directories = require('./directories');
 async function npmInstall() {
     await clean();
 
-    const pending = directories.map((dir) => {
+    const pending = directories.map(async (dir) => {
         const fullPath = path.resolve(__dirname, dir);
 
         log.info(dir, 'npm install');
 
-        return execa('npm', ['--package-lock=false', 'install'], {
+        await execa('npm', ['--package-lock=false', 'install'], {
             cwd: fullPath,
             env: { FORCE_COLOR: true },
             // https://nodejs.org/api/child_process.html#child_process_options_stdio

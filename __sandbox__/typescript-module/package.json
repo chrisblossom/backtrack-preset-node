@@ -16,6 +16,7 @@
   "types": "dist/typescript-module.d.ts",
   "scripts": {
     "build": "backtrack build --production",
+    "check.all": "backtrack check.all",
     "clean": "backtrack clean",
     "dev": "backtrack dev --development",
     "format": "backtrack format",

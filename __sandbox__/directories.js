@@ -2,8 +2,8 @@
 
 const { readDirDeepSync } = require('read-dir-deep');
 
-const directories = readDirDeepSync('.', {
-    deep: false,
+const directories = readDirDeepSync(__dirname, {
+    deep: 1,
     onlyDirectories: true,
     markDirectories: false,
 });

@@ -16,6 +16,7 @@
   "main": "dist/flow-app.js",
   "scripts": {
     "build": "backtrack build --production",
+    "check.all": "backtrack check.all",
     "clean": "backtrack clean",
     "dev": "backtrack dev --development",
     "dev.watch-only": "backtrack dev.watch-only",

@@ -14,6 +14,7 @@
   ],
   "main": "app/node-app.js",
   "scripts": {
+    "check.all": "backtrack check.all",
     "dev": "backtrack dev --development",
     "format": "backtrack format",
     "git-pre-commit": "backtrack git-pre-commit",
