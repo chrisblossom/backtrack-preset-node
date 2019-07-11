@@ -815,6 +815,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack flow",
   ],
   "clean": Object {
     "copy": Array [],
@@ -1121,6 +1122,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack flow",
   ],
   "clean": Object {
     "copy": Array [],
@@ -1434,6 +1436,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack flow",
   ],
   "clean": Object {
     "copy": Array [],
@@ -2362,6 +2365,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack typescript",
   ],
   "clean": Object {
     "copy": Array [],
@@ -2663,6 +2667,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack typescript",
   ],
   "clean": Object {
     "copy": Array [],
@@ -2971,6 +2976,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack typescript",
   ],
   "clean": Object {
     "copy": Array [],
@@ -4081,6 +4087,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack flow",
   ],
   "clean": Object {
     "copy": Array [],
@@ -4387,6 +4394,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack flow",
   ],
   "clean": Object {
     "copy": Array [],
@@ -4700,6 +4708,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack flow",
   ],
   "clean": Object {
     "copy": Array [],
@@ -5687,6 +5696,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack typescript",
   ],
   "clean": Object {
     "copy": Array [],
@@ -5992,6 +6002,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack typescript",
   ],
   "clean": Object {
     "copy": Array [],
@@ -6304,6 +6315,7 @@ Object {
   "check.all": Array [
     "backtrack lint",
     "backtrack test",
+    "backtrack typescript",
   ],
   "clean": Object {
     "copy": Array [],
