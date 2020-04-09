@@ -14,7 +14,10 @@ module.exports = {
 			return config;
 		},
 
-		eslint: {
+		eslint: () => ({
+			// use local eslint config
+			extends: '@chrisblossom/eslint-config/node',
+
 			overrides: [
 				{
 					files: ['lib/files/package-entry*.js'],
@@ -28,6 +31,6 @@ module.exports = {
 					},
 				},
 			],
-		},
+		}),
 	},
 };
