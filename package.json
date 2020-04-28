@@ -39,14 +39,14 @@
     "test.ci": "backtrack test.ci",
     "test.ci-pretest": "backtrack test.ci-pretest",
     "test.update": "jest --update-snapshot",
-    "test.watch": "jest --watch"
+    "test.watch": "jest --watch --pass-with-no-tests"
   },
   "peerDependencies": {
     "@backtrack/core": ">=0.2.1"
   },
   "devDependencies": {
     "@backtrack/core": "^0.2.1",
-    "@backtrack/preset-preset": "^0.6.1",
+    "@backtrack/preset-preset": "^0.7.0",
     "execa": "^4.0.0",
     "read-dir-deep": "^7.0.1",
     "strip-ansi": "^6.0.0",
@@ -61,10 +61,10 @@
     "@babel/preset-flow": "^7.9.0",
     "@babel/preset-typescript": "^7.9.0",
     "@backtrack/preset-jest": "^0.8.0",
-    "@backtrack/preset-style": "^0.6.1",
-    "babel-jest": "^25.3.0",
-    "babel-plugin-dynamic-import-node": "^2.3.0",
-    "chokidar": "^3.3.1",
+    "@backtrack/preset-style": "^0.6.2",
+    "babel-jest": "^25.5.0",
+    "babel-plugin-dynamic-import-node": "^2.3.3",
+    "chokidar": "^3.4.0",
     "cross-spawn": "^7.0.2",
     "del": "^5.1.0",
     "flow-copy-source": "^2.0.9",
@@ -72,7 +72,7 @@
     "np": "^5.2.1",
     "read-pkg": "^5.2.0",
     "recursive-copy": "^2.0.10",
-    "semver": "^7.2.1",
+    "semver": "^7.3.2",
     "slash": "^3.0.0"
   }
 }
