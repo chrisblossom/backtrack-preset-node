@@ -84,12 +84,6 @@ module.exports = {
 				 *             - npm install --save-dev typescript
 				 *         - app requirements:
 				 *             - npm install --save source-map-support core-js@3
-				 *
-				 *     flow: Use flow-type
-				 *         - requirements
-				 *             - npm install --save-dev flow-bin
-				 *         - app requirements:
-				 *             - npm install --save source-map-support core-js@3
 				 */
 				syntax: 'typescript',
 
