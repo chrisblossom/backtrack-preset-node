@@ -65,6 +65,57 @@ jobs:
                   key: v1-dependencies-{{ checksum "_node_version" }}-{{ checksum "_npm_version" }}
             - run: npm run test.ci-pretest
             - run: npm run test.ci
+    test-node14:
+        docker:
+            - image: circleci/node:14
+        steps:
+            - checkout
+            - run: node --version > _node_version && npm --version > _npm_version && cat _node_version && cat _npm_version
+            - restore_cache:
+                  keys:
+                      - v1-dependencies-{{ checksum "_node_version" }}-{{ checksum "_npm_version" }}
+            - run: node --version && npm --version
+            - run: npm install
+            - save_cache:
+                  paths:
+                      - ~/.npm
+                  key: v1-dependencies-{{ checksum "_node_version" }}-{{ checksum "_npm_version" }}
+            - run: npm run test.ci-pretest
+            - run: npm run test.ci
+    test-node16:
+        docker:
+            - image: circleci/node:16
+        steps:
+            - checkout
+            - run: node --version > _node_version && npm --version > _npm_version && cat _node_version && cat _npm_version
+            - restore_cache:
+                  keys:
+                      - v1-dependencies-{{ checksum "_node_version" }}-{{ checksum "_npm_version" }}
+            - run: node --version && npm --version
+            - run: npm install
+            - save_cache:
+                  paths:
+                      - ~/.npm
+                  key: v1-dependencies-{{ checksum "_node_version" }}-{{ checksum "_npm_version" }}
+            - run: npm run test.ci-pretest
+            - run: npm run test.ci
+    test-node18:
+        docker:
+            - image: circleci/node:18
+        steps:
+            - checkout
+            - run: node --version > _node_version && npm --version > _npm_version && cat _node_version && cat _npm_version
+            - restore_cache:
+                  keys:
+                      - v1-dependencies-{{ checksum "_node_version" }}-{{ checksum "_npm_version" }}
+            - run: node --version && npm --version
+            - run: npm install
+            - save_cache:
+                  paths:
+                      - ~/.npm
+                  key: v1-dependencies-{{ checksum "_node_version" }}-{{ checksum "_npm_version" }}
+            - run: npm run test.ci-pretest
+            - run: npm run test.ci
 
 workflows:
     version: 2
@@ -73,3 +124,6 @@ workflows:
             - test-node8
             - test-node10
             - test-node12
+            - test-node14
+            - test-node16
+            - test-node18
