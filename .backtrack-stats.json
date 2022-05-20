@@ -5,7 +5,7 @@
             "lib/files"
         ],
         "files": {
-            ".circleci/config.yml": "ed700b1e1ed715aaa370a41a40f8236df1886fa35913c644e8cc82580997e327",
+            ".circleci/config.yml": "894cae5fac31edbcf0eb666ce0b231305db91f098a9921f41a2f3e4cc4b747fe",
             ".editorconfig": "0b9d5ddd3464226f6c635fce4d987914b5a03ffcfebb6425c7e91eb72bb0299f",
             ".eslintignore": "73a2c88868e2d07e67d56a7678a7cff9b19d375996830bc055e5048a3a995c7f",
             ".eslintrc.js": "00aed0fb026ab32804ce28d202a5e8ff43d5ef238ab938774c34b19fd6c1047b",
@@ -19,7 +19,7 @@
             ".prettierrc.js": "f4a7656974038636db7c4488f4953c6c6179975b17cda28b2b1b2792766ae512",
             ".yarnrc": "feed5a1b1413c2d27507ed09e7d1c21fb40e0f8aca947c0620793b7e187e8ba4",
             "README.md": "ignoreUpdates",
-            "appveyor.yml": "5dcc891d04c8131f9a5782771c5fecd04af5a6cc6c22f4090a63b3b4583bafaa",
+            "appveyor.yml": "25e43fbd67f7d31b81155aca953154dc7a03f94adfb66be204ed0787d9ce5eb9",
             "jest.config.js": "849190b5138d25fa0849678fb4a3c818fb0dccffbe6a86732713a18c4cc06b6d",
             "lib/preset-node.js": "ignoreUpdates",
             "lib/preset-node.test.js": "ignoreUpdates",
@@ -28,7 +28,7 @@
     },
     "packageJson": {
         "engines": {
-            "node": ">=8.9.0"
+            "node": ">=14.15.0"
         },
         "files": [
             "lib/"

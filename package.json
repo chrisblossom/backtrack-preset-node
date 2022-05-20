@@ -20,7 +20,7 @@
   "homepage": "https://github.com/chrisblossom/backtrack-preset-node",
   "author": "Chris Blossom",
   "engines": {
-    "node": ">=8.9.0"
+    "node": ">=14.15.0"
   },
   "files": [
     "lib/"
@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@backtrack/core": "^0.2.1",
-    "@backtrack/preset-preset": "^0.7.0",
+    "@backtrack/preset-preset": "^0.8.0",
     "execa": "^5.1.1",
     "read-dir-deep": "^7.0.1",
     "strip-ansi": "^6.0.1",
