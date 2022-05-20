@@ -18,7 +18,6 @@
 -   Automatic app restarts in `development` via [nodemon](https://github.com/remy/nodemon)
 -   Optional: [`babel`](https://babeljs.io) with [`babel-preset-env`](https://babeljs.io/docs/plugins/preset-env/)
 -   Optional: [`typescript`](http://www.typescriptlang.org)
--   Optional: [`flow`](https://flow.org)
 
 ## Installation
 
@@ -90,10 +89,10 @@ module.exports = {
 				/**
 				 * Specify node version
 				 *
-				 * module default: '>=8.9.0'
-				 * app default: '^10.13.0'
+				 * module default: '>=14.15.0'
+				 * app default: '^16.13.0'
 				 */
-				nodeVersion: '^12.0.0',
+				nodeVersion: '^18.0.0',
 
 				/**
 				 * Enable/disable Windows-only features
