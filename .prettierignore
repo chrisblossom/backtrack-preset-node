@@ -26,6 +26,7 @@ tsconfig.*
 jest.config.*
 .babelrc.*
 *-backup-*
+appveyor.yml
 
 # CUSTOM:
 !/__sandbox__/*.js

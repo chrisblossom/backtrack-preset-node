@@ -6,26 +6,26 @@
             "lib/files"
         ],
         "files": {
-            ".circleci/config.yml": "6d49190b97c6d32cec80a004839583942104fc7bc272db69c1e96379c739cd78",
+            ".circleci/config.yml": "8c0cfd70d0df0bcc72810dda6b2e99a5fffa2545ac9a9827e0f5fbcd9e2feae5",
             ".editorconfig": "c8e06355ec368086c1313bda19033a9e5d8a920d27dbf91a97fc509a0d2d8e3b",
-            ".eslintignore": "30904a5ebbd16be084eafa3241917ac38118d162dc5546f44a7ad05979cf0d80",
-            ".eslintrc.js": "00aed0fb026ab32804ce28d202a5e8ff43d5ef238ab938774c34b19fd6c1047b",
+            ".eslintignore": "cc67305578620b791ded1c8aed0f3c39db17c4643c760d09408e18eadb1d7a37",
+            ".eslintrc.cjs": "00aed0fb026ab32804ce28d202a5e8ff43d5ef238ab938774c34b19fd6c1047b",
             ".gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
             ".gitignore": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
             ".husky/pre-commit": "e4add719772b9da7940f03a22d607f8c8c86a543b9260739f9a8143b89007597",
             ".husky/pre-push": "bd2849b7a84e41755e4c74b1a3d0640914f2cf1a1a4373640aa8d6308a3c53ee",
             ".lintstagedrc.cjs": "bc49af6b82be36d6b1ef246bd20ce41a5726b59701584ad6fc57ce28c8ea6785",
-            ".np-config.js": "f1e82191dea83526e85a98a48c5b974b59e6e99293e864d0a1d02d5999e6a675",
+            ".np-config.cjs": "f1e82191dea83526e85a98a48c5b974b59e6e99293e864d0a1d02d5999e6a675",
             ".npmrc": "f535d8452d57a9d969bc54c2eaa831f3e20ccb5c3dbeeabc6f613d27a4b5a28a",
-            ".prettierignore": "30904a5ebbd16be084eafa3241917ac38118d162dc5546f44a7ad05979cf0d80",
-            ".prettierrc.js": "3930e922bf830746fe8261727a5f49eea3b93bb891955e46b56c78f9b9bbdf12",
+            ".prettierignore": "cc67305578620b791ded1c8aed0f3c39db17c4643c760d09408e18eadb1d7a37",
+            ".prettierrc.cjs": "105ba088ab96fe3b965231970dc8db9904de34ff9a9febff5a071d8220b74701",
             ".yarnrc": "feed5a1b1413c2d27507ed09e7d1c21fb40e0f8aca947c0620793b7e187e8ba4",
             "README.md": "ignoreUpdates",
-            "appveyor.yml": "ffd8ddbe777428f14a596f04f0b3295b23bd0f2d945384f127ef4179ba55ab13",
-            "jest.config.js": "849190b5138d25fa0849678fb4a3c818fb0dccffbe6a86732713a18c4cc06b6d",
+            "appveyor.yml": "6aa9016d30e25bc337b46ce7a9e7dd84272410415dfa539a0dda7070c1f41259",
+            "jest.config.cjs": "849190b5138d25fa0849678fb4a3c818fb0dccffbe6a86732713a18c4cc06b6d",
             "lib/preset-node.js": "ignoreUpdates",
             "lib/preset-node.test.js": "ignoreUpdates",
-            "wallaby.config.js": "1685bb89c5e60c303b9a319b3ee52766bfc0c0b7cf5a2c0e5f8e67a0e8febeba"
+            "wallaby.config.cjs": "1685bb89c5e60c303b9a319b3ee52766bfc0c0b7cf5a2c0e5f8e67a0e8febeba"
         }
     },
     "packageJson": {

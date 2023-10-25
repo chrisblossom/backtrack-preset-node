@@ -47,9 +47,8 @@
 	},
 	"devDependencies": {
 		"@backtrack/core": "^0.2.1",
-		"@backtrack/preset-preset": "^0.8.0",
+		"@backtrack/preset-preset": "^0.9.0",
 		"execa": "^5.1.1",
-		"prettier": "^2.8.8",
 		"read-dir-deep": "^7.0.1",
 		"strip-ansi": "^6.0.1",
 		"typescript": "^5.2.2"

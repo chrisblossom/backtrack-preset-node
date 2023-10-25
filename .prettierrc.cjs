@@ -15,11 +15,11 @@ const { configManager, pkg } = new Backtrack();
 
 const packageId = '@backtrack/preset-style';
 
+/** @type {import("prettier").Config} */
 const prettier = {
 	plugins: [
 		pkg.resolve(packageId, 'prettier-plugin-multiline-arrays'),
 		pkg.resolve(packageId, 'prettier-plugin-sh'),
-		pkg.resolve(packageId, 'prettier-plugin-svelte'),
 	],
 	multilineArraysWrapThreshold: 1,
 	semi: true,
