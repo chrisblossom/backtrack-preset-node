@@ -1,76 +1,76 @@
 {
-  "name": "@backtrack/preset-node",
-  "version": "0.9.1",
-  "description": "backtrack preset to bootstrap a node project",
-  "keywords": [
-    "backtrack",
-    "preset",
-    "module",
-    "app",
-    "application",
-    "node",
-    "babel",
-    "typescript",
-    "flow",
-    "project"
-  ],
-  "license": "MIT",
-  "private": false,
-  "repository": "chrisblossom/backtrack-preset-node",
-  "homepage": "https://github.com/chrisblossom/backtrack-preset-node",
-  "author": "Chris Blossom",
-  "engines": {
-    "node": ">=14.15.0"
-  },
-  "files": [
-    "lib/"
-  ],
-  "main": "lib/preset-node.js",
-  "scripts": {
-    "check.all": "backtrack check.all",
-    "format": "backtrack format",
-    "git-pre-commit": "backtrack git-pre-commit",
-    "git-pre-push": "backtrack git-pre-push",
-    "lint": "backtrack lint",
-    "lint.fix": "backtrack lint.fix",
-    "prepublishOnly": "backtrack prepublishOnly",
-    "release": "backtrack release",
-    "test": "backtrack test",
-    "test.ci": "backtrack test.ci",
-    "test.ci-pretest": "backtrack test.ci-pretest",
-    "test.update": "jest --update-snapshot",
-    "test.watch": "jest --watch --pass-with-no-tests"
-  },
-  "peerDependencies": {
-    "@backtrack/core": ">=0.2.1"
-  },
-  "devDependencies": {
-    "@backtrack/core": "^0.2.1",
-    "@backtrack/preset-preset": "^0.8.0",
-    "execa": "^5.1.1",
-    "read-dir-deep": "^7.0.1",
-    "strip-ansi": "^6.0.1",
-    "typescript": "^4.7.3"
-  },
-  "dependencies": {
-    "@babel/cli": "^7.17.10",
-    "@babel/core": "^7.18.2",
-    "@babel/plugin-proposal-class-properties": "^7.17.12",
-    "@babel/plugin-transform-strict-mode": "^7.16.7",
-    "@babel/preset-env": "^7.18.2",
-    "@babel/preset-typescript": "^7.17.12",
-    "@backtrack/preset-jest": "^0.10.0",
-    "@backtrack/preset-style": "^0.7.0",
-    "babel-jest": "^25.5.1",
-    "babel-plugin-dynamic-import-node": "^2.3.3",
-    "chokidar": "^3.5.3",
-    "cross-spawn": "^7.0.3",
-    "del": "^6.1.1",
-    "nodemon": "^2.0.16",
-    "np": "^7.6.1",
-    "read-pkg": "^5.2.0",
-    "recursive-copy": "^2.0.14",
-    "semver": "^7.3.7",
-    "slash": "^3.0.0"
-  }
+	"name": "@backtrack/preset-node",
+	"version": "0.9.1",
+	"description": "backtrack preset to bootstrap a node project",
+	"keywords": [
+		"backtrack",
+		"preset",
+		"module",
+		"app",
+		"application",
+		"node",
+		"babel",
+		"typescript",
+		"flow",
+		"project"
+	],
+	"license": "MIT",
+	"private": false,
+	"repository": "chrisblossom/backtrack-preset-node",
+	"homepage": "https://github.com/chrisblossom/backtrack-preset-node",
+	"author": "Chris Blossom",
+	"engines": {
+		"node": ">=14.15.0"
+	},
+	"files": [
+		"lib/"
+	],
+	"main": "lib/preset-node.js",
+	"scripts": {
+		"check.all": "backtrack check.all",
+		"format": "backtrack format",
+		"git-pre-commit": "backtrack git-pre-commit",
+		"git-pre-push": "backtrack git-pre-push",
+		"lint": "backtrack lint",
+		"lint.fix": "backtrack lint.fix",
+		"prepublishOnly": "backtrack prepublishOnly",
+		"release": "backtrack release",
+		"test": "backtrack test",
+		"test.ci": "backtrack test.ci",
+		"test.ci-pretest": "backtrack test.ci-pretest",
+		"test.update": "jest --update-snapshot",
+		"test.watch": "jest --watch --pass-with-no-tests"
+	},
+	"peerDependencies": {
+		"@backtrack/core": ">=0.2.1"
+	},
+	"devDependencies": {
+		"@backtrack/core": "^0.2.1",
+		"@backtrack/preset-preset": "^0.8.0",
+		"execa": "^5.1.1",
+		"read-dir-deep": "^7.0.1",
+		"strip-ansi": "^6.0.1",
+		"typescript": "^4.7.3"
+	},
+	"dependencies": {
+		"@babel/cli": "^7.17.10",
+		"@babel/core": "^7.18.2",
+		"@babel/plugin-proposal-class-properties": "^7.17.12",
+		"@babel/plugin-transform-strict-mode": "^7.16.7",
+		"@babel/preset-env": "^7.18.2",
+		"@babel/preset-typescript": "^7.17.12",
+		"@backtrack/preset-jest": "^0.10.0",
+		"@backtrack/preset-style": "^0.7.0",
+		"babel-jest": "^25.5.1",
+		"babel-plugin-dynamic-import-node": "^2.3.3",
+		"chokidar": "^3.5.3",
+		"cross-spawn": "^7.0.3",
+		"del": "^6.1.1",
+		"nodemon": "^2.0.16",
+		"np": "^7.6.1",
+		"read-pkg": "^5.2.0",
+		"recursive-copy": "^2.0.14",
+		"semver": "^7.3.7",
+		"slash": "^3.0.0"
+	}
 }
