@@ -20,12 +20,13 @@
 	"homepage": "https://github.com/chrisblossom/backtrack-preset-node",
 	"author": "Chris Blossom",
 	"engines": {
-		"node": ">=14.15.0"
+		"node": ">=18.12.0"
 	},
 	"files": [
 		"lib/"
 	],
 	"main": "lib/preset-node.js",
+	"module": "commonjs",
 	"scripts": {
 		"check.all": "backtrack check.all",
 		"format": "backtrack format",
