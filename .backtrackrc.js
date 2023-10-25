@@ -4,12 +4,18 @@ module.exports = {
 	presets: ['@backtrack/preset'],
 
 	files: {
-		allowChanges: ['.eslintignore', '.prettierignore'],
+		allowChanges: [
+			'.eslintignore',
+			'.prettierignore',
+		],
 	},
 
 	config: {
 		wallaby: (config) => {
-			config.files = ['!./__sandbox__/**', ...config.files];
+			config.files = [
+				'!./__sandbox__/**',
+				...config.files,
+			];
 
 			return config;
 		},
@@ -25,9 +31,15 @@ module.exports = {
 						sourceType: 'module',
 					},
 					rules: {
-						'node/no-unsupported-features/es-builtins': 'off',
-						'node/no-unsupported-features/es-syntax': 'off',
-						'node/no-unsupported-features/node-builtins': 'off',
+						'n/no-unsupported-features/es-builtins': 'off',
+						'n/no-unsupported-features/es-syntax': 'off',
+						'n/no-unsupported-features/node-builtins': 'off',
+					},
+				},
+				{
+					files: ['*.test.js'],
+					rules: {
+						'jest/no-conditional-expect': 'off',
 					},
 				},
 			],
