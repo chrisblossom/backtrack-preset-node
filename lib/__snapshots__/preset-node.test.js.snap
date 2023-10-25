@@ -231,7 +231,7 @@ exports[`preset-node {"mode":"app","syntax":"babel","windows":false} 1`] = `
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "dist/",
@@ -502,7 +502,7 @@ exports[`preset-node {"mode":"app","syntax":"babel","windows":true} 1`] = `
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "dist/",
@@ -766,7 +766,7 @@ exports[`preset-node {"mode":"app","syntax":"babel"} 1`] = `
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "dist/",
@@ -975,7 +975,7 @@ exports[`preset-node {"mode":"app","syntax":"node","windows":false} 1`] = `
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "app/",
@@ -1189,7 +1189,7 @@ exports[`preset-node {"mode":"app","syntax":"node","windows":true} 1`] = `
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "app/",
@@ -1396,7 +1396,7 @@ exports[`preset-node {"mode":"app","syntax":"node"} 1`] = `
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "app/",
@@ -1695,7 +1695,7 @@ exports[`preset-node {"mode":"app","syntax":"typescript","windows":false} 1`] = 
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "dist/",
@@ -2008,7 +2008,7 @@ exports[`preset-node {"mode":"app","syntax":"typescript","windows":true} 1`] = `
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "dist/",
@@ -2314,7 +2314,7 @@ exports[`preset-node {"mode":"app","syntax":"typescript"} 1`] = `
     },
     {
       "engines": {
-        "node": "^16.13.0",
+        "node": "^20.9.0",
       },
       "files": [
         "dist/",
@@ -2582,7 +2582,7 @@ exports[`preset-node {"mode":"module","syntax":"babel","windows":false} 1`] = `
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "dist/",
@@ -2856,7 +2856,7 @@ exports[`preset-node {"mode":"module","syntax":"babel","windows":true} 1`] = `
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "dist/",
@@ -3130,7 +3130,7 @@ exports[`preset-node {"mode":"module","syntax":"babel"} 1`] = `
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "dist/",
@@ -3354,7 +3354,7 @@ exports[`preset-node {"mode":"module","syntax":"node","windows":false} 1`] = `
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "lib/",
@@ -3583,7 +3583,7 @@ exports[`preset-node {"mode":"module","syntax":"node","windows":true} 1`] = `
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "lib/",
@@ -3812,7 +3812,7 @@ exports[`preset-node {"mode":"module","syntax":"node"} 1`] = `
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "lib/",
@@ -4114,7 +4114,7 @@ exports[`preset-node {"mode":"module","syntax":"typescript","windows":false} 1`]
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "dist/",
@@ -4431,7 +4431,7 @@ exports[`preset-node {"mode":"module","syntax":"typescript","windows":true} 1`] 
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "dist/",
@@ -4748,7 +4748,7 @@ exports[`preset-node {"mode":"module","syntax":"typescript"} 1`] = `
     },
     {
       "engines": {
-        "node": ">=14.15.0",
+        "node": ">=18.12.0",
       },
       "files": [
         "dist/",
