@@ -1,9 +1,6 @@
 # @backtrack/preset-node
 
 [![npm](https://img.shields.io/npm/v/@backtrack/preset-node.svg?label=npm%20version)](https://www.npmjs.com/package/@backtrack/preset-node)
-[![Linux Build Status](https://img.shields.io/circleci/project/github/chrisblossom/backtrack-preset-node/master.svg?label=linux%20build)](https://circleci.com/gh/chrisblossom/backtrack-preset-node/tree/master)
-[![Windows Build Status](https://img.shields.io/appveyor/ci/chrisblossom/backtrack-preset-node/master.svg?label=windows%20build)](https://ci.appveyor.com/project/chrisblossom/backtrack-preset-node/branch/master)
-[![Code Coverage](https://img.shields.io/codecov/c/github/chrisblossom/backtrack-preset-node/master.svg)](https://codecov.io/gh/chrisblossom/backtrack-preset-node/branch/master)
 
 ## About
 
