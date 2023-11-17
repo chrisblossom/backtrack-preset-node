@@ -63,6 +63,7 @@
 		"@backtrack/preset-style": "^0.10.0",
 		"babel-jest": "^29.7.0",
 		"babel-plugin-dynamic-import-node": "^2.3.3",
+		"babel-plugin-transform-import-meta": "^2.2.1",
 		"chokidar": "^3.5.3",
 		"cross-spawn": "^7.0.3",
 		"del": "^6.1.1",

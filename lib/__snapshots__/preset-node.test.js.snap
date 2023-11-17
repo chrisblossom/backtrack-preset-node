@@ -175,7 +175,7 @@ exports[`preset-node {"mode":"app","syntax":"babel","windows":false} 1`] = `
       ],
       "hash": {
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.cjs": "0f360a9770840d816721134cbfd0dee41b827c6f8789daadfdf42807d2770598",
+        "lib/files/babel-app.cjs": "892e27c66621ecffd81828538cdb02bf8487b7ef11b0227f431a8f12767a3941",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/np-config.cjs": "f1e82191dea83526e85a98a48c5b974b59e6e99293e864d0a1d02d5999e6a675",
@@ -432,7 +432,7 @@ exports[`preset-node {"mode":"app","syntax":"babel","windows":true} 1`] = `
       ],
       "hash": {
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.cjs": "0f360a9770840d816721134cbfd0dee41b827c6f8789daadfdf42807d2770598",
+        "lib/files/babel-app.cjs": "892e27c66621ecffd81828538cdb02bf8487b7ef11b0227f431a8f12767a3941",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/np-config.cjs": "f1e82191dea83526e85a98a48c5b974b59e6e99293e864d0a1d02d5999e6a675",
@@ -689,7 +689,7 @@ exports[`preset-node {"mode":"app","syntax":"babel"} 1`] = `
       ],
       "hash": {
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.cjs": "0f360a9770840d816721134cbfd0dee41b827c6f8789daadfdf42807d2770598",
+        "lib/files/babel-app.cjs": "892e27c66621ecffd81828538cdb02bf8487b7ef11b0227f431a8f12767a3941",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/np-config.cjs": "f1e82191dea83526e85a98a48c5b974b59e6e99293e864d0a1d02d5999e6a675",
@@ -1578,7 +1578,7 @@ exports[`preset-node {"mode":"app","syntax":"typescript","windows":false} 1`] = 
       ],
       "hash": {
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.cjs": "0f360a9770840d816721134cbfd0dee41b827c6f8789daadfdf42807d2770598",
+        "lib/files/babel-app.cjs": "892e27c66621ecffd81828538cdb02bf8487b7ef11b0227f431a8f12767a3941",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -1877,7 +1877,7 @@ exports[`preset-node {"mode":"app","syntax":"typescript","windows":true} 1`] = `
       ],
       "hash": {
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.cjs": "0f360a9770840d816721134cbfd0dee41b827c6f8789daadfdf42807d2770598",
+        "lib/files/babel-app.cjs": "892e27c66621ecffd81828538cdb02bf8487b7ef11b0227f431a8f12767a3941",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -2176,7 +2176,7 @@ exports[`preset-node {"mode":"app","syntax":"typescript"} 1`] = `
       ],
       "hash": {
         "lib/files/README-app.md": "ignoreUpdates",
-        "lib/files/babel-app.cjs": "0f360a9770840d816721134cbfd0dee41b827c6f8789daadfdf42807d2770598",
+        "lib/files/babel-app.cjs": "892e27c66621ecffd81828538cdb02bf8487b7ef11b0227f431a8f12767a3941",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-app": "75b95a577475b62101403eee232b8a9f68a891f28793ec51d5c5ebe97fb6f0ff",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -2440,7 +2440,7 @@ exports[`preset-node {"mode":"module","syntax":"babel","windows":false} 1`] = `
       ],
       "hash": {
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.cjs": "7f69157bbe12553bb71b5e890da845ddeeb5f36f2de71aacc5b18b483e6eab1a",
+        "lib/files/babel-module.cjs": "14b86764e150138b549c23d5c025a3a6b8da707d52b4929d6619977f313ec348",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/np-config.cjs": "f1e82191dea83526e85a98a48c5b974b59e6e99293e864d0a1d02d5999e6a675",
@@ -2700,7 +2700,7 @@ exports[`preset-node {"mode":"module","syntax":"babel","windows":true} 1`] = `
       ],
       "hash": {
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.cjs": "7f69157bbe12553bb71b5e890da845ddeeb5f36f2de71aacc5b18b483e6eab1a",
+        "lib/files/babel-module.cjs": "14b86764e150138b549c23d5c025a3a6b8da707d52b4929d6619977f313ec348",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/np-config.cjs": "f1e82191dea83526e85a98a48c5b974b59e6e99293e864d0a1d02d5999e6a675",
@@ -2960,7 +2960,7 @@ exports[`preset-node {"mode":"module","syntax":"babel"} 1`] = `
       ],
       "hash": {
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.cjs": "7f69157bbe12553bb71b5e890da845ddeeb5f36f2de71aacc5b18b483e6eab1a",
+        "lib/files/babel-module.cjs": "14b86764e150138b549c23d5c025a3a6b8da707d52b4929d6619977f313ec348",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/np-config.cjs": "f1e82191dea83526e85a98a48c5b974b59e6e99293e864d0a1d02d5999e6a675",
@@ -3897,7 +3897,7 @@ exports[`preset-node {"mode":"module","syntax":"typescript","windows":false} 1`]
       ],
       "hash": {
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.cjs": "7f69157bbe12553bb71b5e890da845ddeeb5f36f2de71aacc5b18b483e6eab1a",
+        "lib/files/babel-module.cjs": "14b86764e150138b549c23d5c025a3a6b8da707d52b4929d6619977f313ec348",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -4200,7 +4200,7 @@ exports[`preset-node {"mode":"module","syntax":"typescript","windows":true} 1`] 
       ],
       "hash": {
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.cjs": "7f69157bbe12553bb71b5e890da845ddeeb5f36f2de71aacc5b18b483e6eab1a",
+        "lib/files/babel-module.cjs": "14b86764e150138b549c23d5c025a3a6b8da707d52b4929d6619977f313ec348",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/global.d.ts": "ignoreUpdates",
@@ -4503,7 +4503,7 @@ exports[`preset-node {"mode":"module","syntax":"typescript"} 1`] = `
       ],
       "hash": {
         "lib/files/README-module.md": "ignoreUpdates",
-        "lib/files/babel-module.cjs": "7f69157bbe12553bb71b5e890da845ddeeb5f36f2de71aacc5b18b483e6eab1a",
+        "lib/files/babel-module.cjs": "14b86764e150138b549c23d5c025a3a6b8da707d52b4929d6619977f313ec348",
         "lib/files/gitattributes": "f511b169e2a0b7529ac2887dffad3b04a16b954209edf18fec7f8911a81ad17d",
         "lib/files/gitignore-module": "8791c419e79de53e5c2eefa59ab16b52b5413bd08da46be94e9e6cc3153a17a0",
         "lib/files/global.d.ts": "ignoreUpdates",
